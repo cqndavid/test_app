@@ -32,7 +32,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
 group :production do
-	gem 'pg','0.12.2'
+	gem 'pg'
 end
 
 group :doc do
